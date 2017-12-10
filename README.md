@@ -1,3 +1,16 @@
+Quick Setup:
+git clone https://github.com/sendilkg/twitter-ui-samples.git
+cd twitter-ui-samples/
+npm install --save react-native
+npm install --save react-navigation
+npm install --save react-native-elements
+npm install --save react-native-sidebar
+npm install --save native-base
+npm install --save @expo/vector-icons
+npm install --save expo
+npm install
+react-native run-ios / react-native run-android
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
