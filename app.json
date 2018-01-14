@@ -1,5 +1,15 @@
 {
   "expo": {
-    "sdkVersion": "23.0.0"
+   "name": "TwitterClone",
+   "icon": "./path/to/your/app-icon.png",
+   "version": "1.0.0",
+   "slug": "TwitterClone",
+   "sdkVersion": "23.0.0",
+   "ios": {
+     "bundleIdentifier": "com.sendil.twitterclone"
+   },
+   "android": {
+     "package": "com.sendil.twitterclone"
+   }
   }
 }
